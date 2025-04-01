@@ -1,4 +1,4 @@
-package io.gffd94.spring_order;
+package io.gffd94.spring_order.voucher;
 
 import java.util.UUID;
 
